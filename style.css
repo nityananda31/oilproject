@@ -720,3 +720,8 @@ h1,h2,h3,h4,h5,h6 {
     height: 740px;
   }
 }
+@media screen and (max-width:992px) {
+  .d-br-none {
+    display: none !important;
+  }
+}
